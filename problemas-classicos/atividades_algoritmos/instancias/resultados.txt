@@ -1,0 +1,13 @@
+Problema: Árvore espalha mínima (MSTP)
+Instância - solução
+dij10 - 7072
+dij20 - 15238
+dij40 - 26615
+dij50 - 30424
+
+Problema: Caminho mínimo
+Instância - solução
+dij10 - 5183
+dij20 - 3190
+dij40 - 8928
+dij50 - 6764

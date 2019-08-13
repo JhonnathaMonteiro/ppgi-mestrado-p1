@@ -1,0 +1,14 @@
+Como interpretar os arquivos:
+
+-) O número de vértices pode ser encontrado no campo DIMENSION
+-) A matriz de distâncias pode ser encontrada no campo EDGE_WEIGHT_SECTION
+
+Soluções ótimas
+-) bayg29 = 1610
+-) bays29 = 2020
+-) berlin52 = 7542
+-) bier127 = 118282
+-) brazil58 = 25395
+-) ch130 = 6110
+-) ch150 = 6528
+-) swiss42 = 1273

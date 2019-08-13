@@ -1,0 +1,5 @@
+Como interpretar os arquivos:
+
+-) O número de vértices pode ser encontrado no campo DIMENSION.
+
+-) Para criar a matriz de distâncias primeiro é necessário ler os dados da seção DISPLAY_DATA_SECTION, que especifica as  coordenadas x e y de cada vértice (cidade). Em seguida, para cada celula (i,j) da matriz de custo calculamos a distância euclidiana do ponto i ao ponto j e convertemos o valor resultante para o inteiro mais próximo. 
